@@ -3,7 +3,7 @@ name: MicWatch
 description: 一个监控麦克风是否正在被使用的插件
 entranceAssembly: "MicWatch.dll"
 url: https://github.com/yty16/MicWatch
-version: 1.0.13.0
+version: 1.0.1.0
 apiVersion: 2.0.0.0
 repoName: MicWatch
 assetsRoot: master/MicWatch
