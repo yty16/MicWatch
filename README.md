@@ -1,4 +1,11 @@
 # MicWatch
+[![GitHub Release](https://img.shields.io/github/v/release/yty16/MicWatch)](https://github.com/yty16/MicWatch/releases)
+[![GitHub License](https://img.shields.io/github/license/yty16/MicWatch)](https://github.com/yty16/MicWatch/blob/main/LICENSE)
+[![GitHub Downloads](https://img.shields.io/github/downloads/yty16/MicWatch/total)](https://github.com/yty16/MicWatch/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/yty16/MicWatch)](https://github.com/yty16/MicWatch/commits/main)
+[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)](https://dotnet.microsoft.com/)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-0078D4)](https://github.com/yty16/MicWatch)
+
 
 > 一个监控麦克风占用状态的 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 插件。
 
