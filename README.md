@@ -1,8 +1,10 @@
 # MicWatch
 [![GitHub Release](https://img.shields.io/github/v/release/yty16/MicWatch)](https://github.com/yty16/MicWatch/releases)
-[![GitHub License](https://img.shields.io/github/license/yty16/MicWatch)](https://github.com/yty16/MicWatch/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/yty16/MicWatch)](https://github.com/yty16/MicWatch/stargazers)
 [![GitHub Downloads](https://img.shields.io/github/downloads/yty16/MicWatch/total)](https://github.com/yty16/MicWatch/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/yty16/MicWatch)](https://github.com/yty16/MicWatch/commits/main)
+[![Top Language](https://img.shields.io/github/languages/top/yty16/MicWatch)](https://github.com/yty16/MicWatch)
+[![Languages](https://img.shields.io/github/languages/count/yty16/MicWatch)](https://github.com/yty16/MicWatch)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)](https://dotnet.microsoft.com/)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-0078D4)](https://github.com/yty16/MicWatch)
 
